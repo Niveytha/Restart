@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Niveytha/Restart">
-    <img src="Images/icon.png" alt="Logo" width="80" height="80">
+    <img src="Restart/Assets.xcassets/Images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">RESTART</h2>
@@ -199,7 +199,7 @@ Project Link: [https://github.com/Niveytha/Restart](https://github.com/Niveytha/
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/niveythawaran
-[product-screenshot]: Images/Page1.png
-[product-screenshot-2]: Images/Page2.png
+[product-screenshot]: Restart/Assets.xcassets/Page1.png
+[product-screenshot-2]: Restart/Assets.xcassets/Page2.png
 [Swift]: https://img.shields.io/badge/Swift?style=for-the-badge&logo=swift&logoColor=orange
 [Swift-url]: https://developer.apple.com/swift/
